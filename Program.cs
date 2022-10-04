@@ -25,3 +25,7 @@ for(i=0;i<n;i++)
     }
 }
 
+for(i=0;i<m;i++)
+{
+    Console.Write($"{final_array[i]} ");
+}
