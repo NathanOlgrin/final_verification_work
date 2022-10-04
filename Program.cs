@@ -12,3 +12,6 @@ for(i=0;i<n;i++)
 {
     if(array[i].Length<=3) m++;
 }
+
+string[] final_array = new string[m];
+m=0;
