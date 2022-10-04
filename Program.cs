@@ -8,3 +8,7 @@ for(i=0;i<n;i++)
     array[i] = Console.ReadLine();
 }
 
+for(i=0;i<n;i++)
+{
+    if(array[i].Length<=3) m++;
+}
