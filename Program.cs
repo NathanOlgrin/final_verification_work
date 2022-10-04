@@ -21,5 +21,7 @@ for(i=0;i<n;i++)
     if(array[i].Length<=3)
     {
         final_array[m] = array[i];
+        m++;
     }
 }
+
